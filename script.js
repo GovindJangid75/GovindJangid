@@ -1,4 +1,3 @@
-
 // Global variables
 let currentTheme = 'light';
 let isScrolled = false;
