@@ -1,3 +1,10 @@
+
+mobileMenuToggle.addEventListener('click', () => {
+    nav.classList.toggle('active');
+    mobileMenuToggle.classList.toggle('active');
+});
+
+
 // Global variables
 let currentTheme = 'light';
 let isScrolled = false;
